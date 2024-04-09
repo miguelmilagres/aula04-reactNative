@@ -18,9 +18,9 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   faixaHorizontal: {
-    flex: 0.2,
     backgroundColor: "#0ff",
     alignItems: "center",
     justifyContent: "center",
+    height: 100
   },
 });
